@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+button {
+  cursor: pointer;
+}
+@import "./assets/style/navbar.css";
+@import "./assets/style/login.css";
+@import "./assets/style/tablas.css";
+@import "./assets/style/formulario.css";
